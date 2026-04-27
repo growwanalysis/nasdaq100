@@ -1,0 +1,19 @@
+==================================================
+BACKTEST SUMMARY
+==================================================
+Start capital                   $100,000
+Final equity                    $231,030
+Total return                     131.03%
+CAGR                              14.23%
+Annualised vol                    20.81%
+Sharpe ratio                        0.74
+Max drawdown                     -25.15%
+Number of trades                      68
+Win rate                           36.8%
+Avg win                           51.35%
+Avg loss                         -10.02%
+Best trade                       333.61%
+Worst trade                      -24.11%
+Profit factor                       2.39
+Avg holding days                   198.1
+==================================================
